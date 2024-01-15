@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python | SQL | R | Data Science
 -------------------------------
 
-Bioinformatics student interested in Python programming and genetics. Data science 💘
-
 * 🌍  I'm based in Wrocław, Poland
 * ⚙️  I'm looking for an internship                                                                                                         
 * 🧠  I'm learning Numpy, Pandas, SQL!                                                                              
