@@ -7,8 +7,9 @@ Python | SQL | R | Data Science
 Bioinformatics student interested in Python programming and genetics. Data science 💘
 
 * 🌍  I'm based in Wrocław, Poland
-* ⚙️  I'm looking for an internship                                                                                                                                
-* 🧠  I'm learning Numpy, Pandas, SQL!                                                                              [output-onlinegiftools-ezgif com-resize](https://github.com/karo-bioscience/karo-bioscience/assets/156694011/34ec5a4c-a4e8-436c-826e-6d65051b64e6)
+* ⚙️  I'm looking for an internship                                                                                                            ![output-onlinegiftools-ezgif com-resize](https://github.com/karo-bioscience/karo-bioscience/assets/156694011/c11ac30c-3db1-4dca-a61f-d28fed11351e)
+                    
+* 🧠  I'm learning Numpy, Pandas, SQL!                                                                              
 * 🤝  I'm open to collaborating on anything!
 * ✉️  You can contact me at [karolina.sikorska03@gmail.com](mailto:karolina.sikorska03@gmail.com)
 
