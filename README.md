@@ -1,5 +1,4 @@
 ![Cream Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/karo-bioscience/karo-bioscience/assets/156694011/755826e7-e0c1-43a6-b116-9d23fd94aa42)
-=================================================================================================================================
 <h1 align="center">Hi 👋 My name is Karolina.</h1>
 
 * 🌍  I'm based in Wrocław, Poland
