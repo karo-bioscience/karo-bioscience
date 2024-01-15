@@ -1,7 +1,6 @@
 ![Cream Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/karo-bioscience/karo-bioscience/assets/156694011/755826e7-e0c1-43a6-b116-9d23fd94aa42)
 =================================================================================================================================
-Hi 👋 My name is Karolina.
-=================================================================================================================================
+<h1 align="center">Hi 👋 My name is Karolina.</h1>
 
 * 🌍  I'm based in Wrocław, Poland
 * ⚙️  I'm looking for an internship                                                                                                         
@@ -28,6 +27,4 @@ src="https://img.shields.io/github/followers/karo-bioscience?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/karo-bioscience"><img src="https://github-readme-stats.vercel.app/api?username=karo-bioscience&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="karo-bioscience's GitHub stats" /></a>
-
-<a href="https://github.com/karo-bioscience" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karo-bioscience&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/karo-bioscience"><img src="https://github-readme-stats.vercel.app/api?username=karo-bioscience&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="karo-bioscience's GitHub stats" /></a><a href="https://github.com/karo-bioscience" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karo-bioscience&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
