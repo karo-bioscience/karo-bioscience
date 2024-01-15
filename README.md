@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python | SQL | R | Data Science
 -------------------------------
 
-Bioinformatics student interested especially in Python programming and genetics
+Bioinformatics student interested in Python programming and genetics. Data science 💘
 
 * 🌍  I'm based in Wrocław, Poland
 * ✉️  You can contact me at [karolina.sikorska03@gmail.com](mailto:karolina.sikorska03@gmail.com)
