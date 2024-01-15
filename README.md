@@ -8,9 +8,9 @@ Bioinformatics student interested in Python programming and genetics. Data scien
 
 * 🌍  I'm based in Wrocław, Poland
 * ⚙️  I'm looking for an internship
-* ✉️  You can contact me at [karolina.sikorska03@gmail.com](mailto:karolina.sikorska03@gmail.com)
 * 🧠  I'm learning Numpy, Pandas, SQL
 * 🤝  I'm open to collaborating on anything!
+* ✉️  You can contact me at [karolina.sikorska03@gmail.com](mailto:karolina.sikorska03@gmail.com)
 
 <a href="https://www.github.com/karo-bioscience" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karo-bioscience?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
