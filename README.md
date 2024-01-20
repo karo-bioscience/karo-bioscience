@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Wrocław, Poland
 * ⚙️  I'm looking for an internship                                                                                                         
-* 🧠  I'm learning Numpy, Pandas, SQL!                                                                              
+* 🧠  I'm learning Python (pandas, numpy etc.), HTML&CSS, SQL (PostgreSQL)!                                                                              
 * 🤝  I'm open to collaborating on anything!
 * ✉️  You can contact me at [karolina.sikorska03@gmail.com](mailto:karolina.sikorska03@gmail.com)
 
