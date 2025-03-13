@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 My name is Karolina.</h1>
 
 * 🌍  I'm based in Wrocław, Poland
-* ⚙️  I'm looking for an internship                                                                                                         
+* ⚙️  I'm looking for an internship or half-time job                                                                                                         
 * 🧠  I'm learning Python (pandas, numpy etc.), HTML&CSS, SQL (PostgreSQL)!                                                                              
 * 🤝  I'm open to collaborating on anything!
 * ✉️  You can contact me at [karolina.sikorska03@gmail.com](mailto:karolina.sikorska03@gmail.com)
